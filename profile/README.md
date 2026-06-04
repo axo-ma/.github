@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="axoma_banner.svg" width="100%" alt="Axoma Way">
+  <img src="profile/axoma_banner.svg" width="100%" alt="Axoma Way">
 </div>
 
 # Axoma
